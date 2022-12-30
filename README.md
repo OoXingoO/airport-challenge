@@ -1,4 +1,4 @@
-Airport Challenge
+DF Airport Challenge
 =================
 
 ```
@@ -18,15 +18,19 @@ About the project
 
 To test drive the creation of a set of classes/objects to satisfy all the user stories. I will also need to use a random number generator to set the weather (it is normally sunny but on rare occasions it may be stormy). In my tests, I'll need to stub random behaviour to ensure consistent test behaviour.
 
-Steps
--------
+### My Steps
 
-1. Forked main repo, and cloned this to my local machine
-2. `npm install` to install project dependencies
-3. Convert stories into a representative domain model and test-drive my work 
-4. Created my own README detailing on how I approached each problem
-5. Created seperate files for different calss and spec
-6. Run my tests using `npm test` or `node specRunner.js`
+1. Forked main repo, and cloned this to my local machine.
+2. `npm install` to install project dependencies.
+3. Convert stories into a representative domain model and test-drive my work.
+4. Created my own [README](https://github.com/OoXingoO/airport-challenge/blob/main/my_README.md) detailing on how I approached each problem.
+5. Created seperate files for different classes and specs.
+6. Run my tests using `npm test` or `node specRunner.js`.
+
+Built with
+-----
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 Task
 -----
